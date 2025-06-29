@@ -1,0 +1,16 @@
+Comment,Designator,Footprint,LCSC,Quantity
+LP2950-5.0_TO252,U2,TO-252-2,,1
+PT2399,U1,DIP-16_W7.62mm,,1
+Foot Switch,S1,3PDT Foot Switch,,1
+10k,RC1,R_0603_1608Metric,,1
+350R,R17,R_0603_1608Metric,,1
+10K,R5,R_0603_1608Metric,,1
+10K,R4,R_0603_1608Metric,,1
+OUT,J5,Jack_6.35mm_Neutrik_NMJ6HFD2_Horizontal,,1
+IN,J4,Jack_6.35mm_Neutrik_NMJ6HFD2_Horizontal,,1
+DC IN,J2,BarrelJack_GCT_DCJ200-10-A_Horizontal,,1
+9V battery,J1,PinSocket_1x02_P2.00mm_Vertical,,1
+1N4148W,D5,D_SOD-123,,1
+LED,D1,LED_D3.0mm_Clear,,1
+47uF,C3,C_0805_2012Metric,,1
+100uF,C2,C_1206_3216Metric,,1
